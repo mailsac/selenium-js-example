@@ -1,0 +1,43 @@
+.container {
+    clear: both;
+}
+
+div {
+    padding: 15px;
+}
+
+.container input {
+    width: 100%;
+    clear: both;
+}
+
+.panel {
+    background-color: #006da5;
+    margin: auto;
+    width: 500px;
+}
+
+h1,h2 {
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}
+
+.form-create-user label {
+    display: block;
+    margin-bottom: 5px;
+    font-family: Arial;
+    font-size: medium;
+}
+
+.form-button {
+    width: 125px
+}
+
+#success {
+    display: none;
+}
+
+label {
+    color: white
+}

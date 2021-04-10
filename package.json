@@ -1,0 +1,20 @@
+{
+  "name": "selenium-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd $INIT_CWD && http-server",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "selenium-webdriver": "^4.0.0-beta.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "supertest": "^6.1.3"
+  }
+}
