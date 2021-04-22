@@ -106,7 +106,11 @@ To manually test email delivery, launch the example web application by running
    
    ![Webapp Confirmation](https://blog.mailsac.com/wp-content/uploads/2021/04/selenium_webapp_confirmation.png)
 
-3. Head over to https://mailsac.com to check that the email has been received.
+3. Check the inbox of Mailsac address you send to using the form on https://mailsac.com
+
+   ![Check Mail](./images/check_mail.png)
+
+4. Verify the message you sent has been received.
    
    ![Manual Verification of Received Email](https://blog.mailsac.com/wp-content/uploads/2021/04/selenium_webapp_manual_verification-e1618931193430.png)
    
