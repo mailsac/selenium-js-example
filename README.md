@@ -62,7 +62,7 @@ SELENIUM_BROWSER=opera
 
 ## Web Application Overview
 
-The example web application is simple. It consists of a single page with a form.
+The example web application consists of a single page with a form.
 The form accepts a username and email address.
 
 ![Screenshot of Example Web Application](https://blog.mailsac.com/wp-content/uploads/2021/04/selenium_webapp_screenshot-e1618931225953.png)
